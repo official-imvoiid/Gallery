@@ -1,2 +1,2 @@
 @echo off
-start pythonw Gallery.pyw
+start pythonw ImageFlow.pyw
